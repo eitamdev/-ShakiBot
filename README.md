@@ -6,7 +6,7 @@ ShakiBot est un bot **musical Discord** développé en **Node.js v20.18.1** util
 
 ## 🚀 Fonctionnalités
 
-- 🔊 Lecture de musique depuis YouTube et Spotify
+- 🔊 Lecture de musique depuis YouTube
 - 📃 Affichage des paroles (via Genius)
 - ⏭️ Commandes de musique (play, skip, stop, queue, etc.)
 - 🎧 Support des playlists
@@ -19,7 +19,7 @@ ShakiBot est un bot **musical Discord** développé en **Node.js v20.18.1** util
 - [Node.js 20.18.1](https://nodejs.org/)
 - [Discord.js v14](https://discord.js.org/)
 - [DisTube](https://distube.js.org/)
-- [Spotify Web API](https://github.com/thelinmichael/spotify-web-api-node)
+- [YouTube API](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
 - [Genius Lyrics](https://www.npmjs.com/package/genius-lyrics)
 - `dotenv` pour la gestion des variables d’environnement
 
