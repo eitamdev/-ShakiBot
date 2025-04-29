@@ -1,6 +1,6 @@
 # 🎵 ShakiBot
 
-ShakiBot est un bot **musical Discord** développé en **Node.js v20.18.1** utilisant **Discord.js v14** et **Distube** pour une expérience audio avancée. Il prend en charge Spotify, YouTube, Genius Lyrics et bien plus encore.
+ShakiBot est un bot **musical Discord** développé en **Node.js v20.18.1** utilisant **Discord.js v14** et **Distube** pour une expérience audio avancée. Il prend en charge YouTube, Genius Lyrics et bien plus encore.
 
 ---
 
