@@ -30,5 +30,5 @@ ShakiBot est un bot **musical Discord** développé en **Node.js v20.18.1** util
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton_nom_utilisateur/ShakiBot.git
+git clone https://github.com/eitamdev/-ShakiBot.git
 cd ShakiBot
