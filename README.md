@@ -1,5 +1,14 @@
 # 🎵 ShakiBot
 
+## 🧰 Technologies utilisées
+
+- [Node.js 20.18.1](https://nodejs.org/)
+- [Discord.js v14](https://discord.js.org/)
+- [DisTube](https://distube.js.org/)
+- [YouTube API](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
+- [Genius Lyrics](https://www.npmjs.com/package/genius-lyrics)
+- `dotenv` pour la gestion des variables d’environnement
+
 **ShakiBot** est un bot Discord musical 100 % **gratuit**, avec de nombreuses fonctionnalités avancées normalement payantes sur d'autres bots. De nouvelles commandes arrivent bientôt.
 
 ## ✨ Fonctionnalités principales
