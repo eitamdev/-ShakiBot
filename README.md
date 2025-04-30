@@ -1,4 +1,4 @@
-# 🎵 ShakiBotV2
+# 🎵 ShakiBot
 
 **ShakiBot** est un bot Discord musical 100 % **gratuit**, avec de nombreuses fonctionnalités avancées normalement payantes sur d'autres bots. De nouvelles commandes arrivent bientôt.
 
