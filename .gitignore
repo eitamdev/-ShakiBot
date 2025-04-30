@@ -1,0 +1,15 @@
+node_modules/
+
+logs/
+*.log
+
+.env
+
+pids/
+*.pid
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+*.swp

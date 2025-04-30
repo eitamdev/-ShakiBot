@@ -1,0 +1,26 @@
+{
+  "name": "shakibot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@distube/spotify": "^2.0.2",
+    "@distube/yt-dlp": "^2.0.1",
+    "@distube/ytdl-core": "^4.16.9",
+    "discord.js": "^14.19.1",
+    "distube": "^5.0.7",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "genius-lyrics": "^4.4.7",
+    "googleapis": "^148.0.0",
+    "path": "^0.12.7",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
